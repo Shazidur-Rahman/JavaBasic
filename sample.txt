@@ -1,0 +1,4 @@
+this is sample file 
+java program will read from the sample file
+Hello
+World
